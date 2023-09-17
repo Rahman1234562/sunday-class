@@ -7,6 +7,8 @@ function App() {
     <div className="App">
     <h1>This is my react app</h1>
     <Card/>
+    <Card/>
+    <Card/>
     </div>
   );
 }
