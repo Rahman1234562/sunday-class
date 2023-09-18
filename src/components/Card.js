@@ -10,6 +10,8 @@ export default function Card() {
             {id: 1, todo: "todo1"},
             {id: 2, todo: "todo2"},
             {id: 3, todo: "todo3"},
+            {id: 4, todo: "todo4"},
+            {id: 4, todo: "todo4"},
             {id: 4, todo: "todo4"}
         ]
        setTodos(items)
