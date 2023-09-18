@@ -1,6 +1,6 @@
 
 import './App.css';
-import Card from './components/card/About';
+import Card from './components/About';
 
 function App() {
   return (
